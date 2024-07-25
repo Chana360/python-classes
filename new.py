@@ -1,4 +1,4 @@
-user = {5, 5, 'ola', 4.7, 'ola'}
-
-print(user)
-
+set2 = {'ola', 'atilola', 'grace'}
+print(set2)
+set2.pop()
+print(set2)
